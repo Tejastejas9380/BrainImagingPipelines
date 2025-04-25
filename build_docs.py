@@ -2,9 +2,7 @@
 # vi: set ft=python sts=4 ts=4 sw=4 et:
 """
 Code to build the documentation in the setup.py
-
 To use this code, run::
-
     python setup.py build_sphinx
 """
 
@@ -59,7 +57,6 @@ class TempInstall(Command):
 
     def finalize_options(self):
         pass
-
 
 ################################################################################
 # Distutils Command class for API generation
