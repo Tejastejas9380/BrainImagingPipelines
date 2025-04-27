@@ -15,7 +15,6 @@ title=""".. AUTO-GENERATED FILE -- DO NOT EDIT!
 
 .. toctree::
    :maxdepth: 1
-
 """
 all_wf.write(title)
 
