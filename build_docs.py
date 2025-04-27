@@ -7,7 +7,6 @@ To use this code, run::
 
     python setup.py build_sphinx
 """
-
 # Standard library imports
 import sys
 import os
