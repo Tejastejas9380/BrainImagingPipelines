@@ -59,7 +59,6 @@ class TempInstall(Command):
     def finalize_options(self):
         pass
 
-
 ################################################################################
 # Distutils Command class for API generation
 class APIDocs(TempInstall):
